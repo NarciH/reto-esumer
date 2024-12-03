@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+nltk
+keras
+plotly
+tqdm
+tensorflow
+keras-preprocessing
+matplotlib
